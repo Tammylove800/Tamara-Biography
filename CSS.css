@@ -1,0 +1,36 @@
+#div_head {
+  background-color: bisque;
+}
+
+#div_firstpage {
+  background-color:bisque;
+}
+#main {
+  display: flex;
+}
+
+#div_secondpage {
+  background-color: bisque;
+}
+
+#div_thirdpage {
+  background-color: bisque;
+}
+#sec1 {
+  background-color: rgb(238, 221, 238);
+  width: 400px; height: 700;
+  text-align: center;
+}
+#sec2 {
+  background-color: rgb(231, 191, 198);
+  width: 1100px; height: 700;
+}
+
+#div_forthpage {
+  background-color: bisque;
+
+}
+
+#div_fifthpage {
+  background-color: bisque;
+}
